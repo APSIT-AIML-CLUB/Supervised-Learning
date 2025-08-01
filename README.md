@@ -3,7 +3,7 @@
 This repository contains materials from a supervised learning session conducted for club learners.  
 It covers both **regression** and **classification** techniques with hands-on practice, datasets, and reference slides.
 
----
+
 
 ## 📂 Repository Structure
 
@@ -35,7 +35,7 @@ It covers both **regression** and **classification** techniques with hands-on pr
   - Flow of a Machine Learning pipeline
   - Regression in supervised learning
 
----
+
 
 ## 🚀 How to Use
 
